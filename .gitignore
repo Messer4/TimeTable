@@ -1,0 +1,30 @@
+# Eclipse
+.classpath
+.project
+.metadata
+.checkstyle
+.settings/
+.springBeans
+
+# Intellij
+.idea/
+*.iml
+
+# Maven
+log/
+target/
+
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+/build
+/logs
+/es
+/h2
+/build/
+*.tar.gz
+/docker/readitnow/external/*.tar.gz
